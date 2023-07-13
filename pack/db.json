@@ -2051,6 +2051,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-06007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Pale Blue Dot [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\tFlip That\nTitle:\t\t\tPale Blue Dot [Verse 2]\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t537\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-06001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bce045ef767eb19605c98d9d35905f03a47a4b3d",
+				"url": "/sonolus/repository/LevelCover/bce045ef767eb19605c98d9d35905f03a47a4b3d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5557208f9f6b159bd96eb2f8487a6e99c393adcc",
+				"url": "/sonolus/repository/LevelBgm/5557208f9f6b159bd96eb2f8487a6e99c393adcc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5514cfac2ff6bf45d840fa9e1da99be72ac6dd16",
+				"url": "/sonolus/repository/LevelPreview/5514cfac2ff6bf45d840fa9e1da99be72ac6dd16"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "447a20f207d95abbd4ede3fec2d8e1901ad14402",
+				"url": "/sonolus/repository/LevelData/447a20f207d95abbd4ede3fec2d8e1901ad14402"
+			}
+		},
+		{
 			"name": "sslo-hard-07001",
 			"version": 1,
 			"rating": 0,
