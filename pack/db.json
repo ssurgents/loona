@@ -266,6 +266,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-01006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Perfect Love [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[+ +]\nTitle:\t\t\tPerfect Love [Verse 2]\nDuration:\t1:25.72\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t651\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "eafa42bd47ae13b01a8f03a8cb197731d5e8fda9",
+				"url": "/sonolus/repository/LevelCover/eafa42bd47ae13b01a8f03a8cb197731d5e8fda9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "811f61e7a1abfe8bf2320a57e9f5b3bfb5b7f1cc",
+				"url": "/sonolus/repository/LevelBgm/811f61e7a1abfe8bf2320a57e9f5b3bfb5b7f1cc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "adb240cfb0fcf3366cb8421768001c448edea0ea",
+				"url": "/sonolus/repository/LevelPreview/adb240cfb0fcf3366cb8421768001c448edea0ea"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "be300cb8e079c897f3874441524a47ebd580647a",
+				"url": "/sonolus/repository/LevelData/be300cb8e079c897f3874441524a47ebd580647a"
+			}
+		},
+		{
 			"name": "sslo-hard-02001",
 			"version": 1,
 			"rating": 0,
