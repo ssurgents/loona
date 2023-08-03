@@ -1388,6 +1388,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-04010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Fall Again [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tFall Again [Verse 2]\nDuration:\t1:41.43\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t411\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ab1e4d079db2b05170f040a6fdb8f645cb6d1286",
+				"url": "/sonolus/repository/LevelCover/ab1e4d079db2b05170f040a6fdb8f645cb6d1286"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c8181038b65e374e524fda525a8a3e1f127ecc4c",
+				"url": "/sonolus/repository/LevelBgm/c8181038b65e374e524fda525a8a3e1f127ecc4c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f6a4fdee6f8251197fa27cbcadecb6f525066752",
+				"url": "/sonolus/repository/LevelPreview/f6a4fdee6f8251197fa27cbcadecb6f525066752"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5fcc0caef1d55c6982025ed4d02b033261739938",
+				"url": "/sonolus/repository/LevelData/5fcc0caef1d55c6982025ed4d02b033261739938"
+			}
+		},
+		{
 			"name": "sslo-hard-05001",
 			"version": 1,
 			"rating": 0,
