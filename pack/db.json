@@ -2204,6 +2204,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-06008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Flip That [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\tFlip That\nTitle:\t\t\tFlip That [Verse 2]\nDuration:\t1:09.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t424\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-06001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bce045ef767eb19605c98d9d35905f03a47a4b3d",
+				"url": "/sonolus/repository/LevelCover/bce045ef767eb19605c98d9d35905f03a47a4b3d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "747552bd534b357d923971a7daac97cded1c655b",
+				"url": "/sonolus/repository/LevelBgm/747552bd534b357d923971a7daac97cded1c655b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "83349ee528bcd5aa312f7598f984343019889029",
+				"url": "/sonolus/repository/LevelPreview/83349ee528bcd5aa312f7598f984343019889029"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8aa06a4be69580ae3c748cb22cb20a4cfc2b7fad",
+				"url": "/sonolus/repository/LevelData/8aa06a4be69580ae3c748cb22cb20a4cfc2b7fad"
+			}
+		},
+		{
 			"name": "sslo-hard-07001",
 			"version": 1,
 			"rating": 0,
