@@ -2408,6 +2408,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-09002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "The Carol (희진, 현진, 하슬)"
+			},
+			"artists": {
+				"en": "Heejin & Hyunjin & Haseul"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tHeejin & Hyunjin & Haseul\nAlbum:\t\tHaseul\nTitle:\t\t\tThe Carol (희진, 현진, 하슬)\nDuration:\t1:49.39\nBPM:\t\t0:00.00-0:35.56: 108.0\n\t\t\t\t0:35.56-1:48.38: 145.0\n\t\t\t\t1:48.38-1:49.39: 120.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t559\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-09001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ed49ae2640b503ccd04c8b9771396b8da77e4e7a",
+				"url": "/sonolus/repository/LevelCover/ed49ae2640b503ccd04c8b9771396b8da77e4e7a"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a4166ab1696255a1ee66dd65841636ed77967e4d",
+				"url": "/sonolus/repository/LevelBgm/a4166ab1696255a1ee66dd65841636ed77967e4d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b62f16c0581ce2261cef36d181ba9fbfc759dce0",
+				"url": "/sonolus/repository/LevelPreview/b62f16c0581ce2261cef36d181ba9fbfc759dce0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cc01b3c898325ca014491c12a8c9b500ce454a59",
+				"url": "/sonolus/repository/LevelData/cc01b3c898325ca014491c12a8c9b500ce454a59"
+			}
+		},
+		{
 			"name": "sslo-hard-10001",
 			"version": 1,
 			"rating": 0,
@@ -2670,13 +2721,13 @@
 				"en": "Love Letter"
 			},
 			"artists": {
-				"en": "Jinsoul & Kim Lip"
+				"en": "Kim Lip & Jinsoul"
 			},
 			"author": {
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJinsoul & Kim Lip\nAlbum:\t\tJinsoul\nTitle:\t\t\tLove Letter\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t526\n"
+				"en": "\n### Music ###\nArtist:\t\tKim Lip & Jinsoul\nAlbum:\t\tJinsoul\nTitle:\t\t\tLove Letter\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t526\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2772,13 +2823,13 @@
 				"en": "Puzzle"
 			},
 			"artists": {
-				"en": "Choerry & Jinsoul"
+				"en": "Jinsoul & Choerry"
 			},
 			"author": {
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tChoerry & Jinsoul\nAlbum:\t\tChoerry\nTitle:\t\t\tPuzzle\nDuration:\t1:24.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t481\n"
+				"en": "\n### Music ###\nArtist:\t\tJinsoul & Choerry\nAlbum:\t\tChoerry\nTitle:\t\t\tPuzzle\nDuration:\t1:24.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t481\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
