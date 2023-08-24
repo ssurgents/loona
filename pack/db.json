@@ -678,7 +678,7 @@
 			"version": 1,
 			"rating": 0,
 			"title": {
-				"en": "Oh Yes I Am"
+				"en": "Oh (Yes I Am)"
 			},
 			"artists": {
 				"en": "Loona"
@@ -687,7 +687,7 @@
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[#]\nTitle:\t\t\tOh Yes I Am\nDuration:\t1:31.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t647\n"
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[#]\nTitle:\t\t\tOh (Yes I Am)\nDuration:\t1:31.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t647\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -926,6 +926,57 @@
 				"type": "LevelData",
 				"hash": "977cd49c40994e42e59a6b68c2d12ef7e64e95e5",
 				"url": "/sonolus/repository/LevelData/977cd49c40994e42e59a6b68c2d12ef7e64e95e5"
+			}
+		},
+		{
+			"name": "sslo-hard-03008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Oh (Yes I Am) [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[#]\nTitle:\t\t\tOh (Yes I Am) [Verse 2]\nDuration:\t1:19.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t521\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "00f1b4bdc14112e458f06a52060a7fe907d738ad",
+				"url": "/sonolus/repository/LevelCover/00f1b4bdc14112e458f06a52060a7fe907d738ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d433b9ea5b5156d1ab546ca1f9283263dae5da23",
+				"url": "/sonolus/repository/LevelBgm/d433b9ea5b5156d1ab546ca1f9283263dae5da23"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "71d2f73a523b88b254d466e6e2d8793a295304b0",
+				"url": "/sonolus/repository/LevelPreview/71d2f73a523b88b254d466e6e2d8793a295304b0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d369fb2e1c78ba70ebae16d41d3dcf4acba43781",
+				"url": "/sonolus/repository/LevelData/d369fb2e1c78ba70ebae16d41d3dcf4acba43781"
 			}
 		},
 		{
