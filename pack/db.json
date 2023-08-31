@@ -1898,6 +1898,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-05009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "U R [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[&]\nTitle:\t\t\tU R [Verse 2]\nDuration:\t1:22.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t314\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-05001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90158685aee8c70b7b13e508873067bede3b4f5f",
+				"url": "/sonolus/repository/LevelCover/90158685aee8c70b7b13e508873067bede3b4f5f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d598e5ab9c692123f60fd12289ef184de5d04155",
+				"url": "/sonolus/repository/LevelBgm/d598e5ab9c692123f60fd12289ef184de5d04155"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b7c7790c32814c4144fb880b431b330d4cb74bca",
+				"url": "/sonolus/repository/LevelPreview/b7c7790c32814c4144fb880b431b330d4cb74bca"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cdb91683f85e78a2c6500b92adeed01d0b93af00",
+				"url": "/sonolus/repository/LevelData/cdb91683f85e78a2c6500b92adeed01d0b93af00"
+			}
+		},
+		{
 			"name": "sslo-hard-06001",
 			"version": 1,
 			"rating": 0,
