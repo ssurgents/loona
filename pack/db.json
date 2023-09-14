@@ -1541,6 +1541,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-04011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Why Not [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tWhy Not [Verse 2]\nDuration:\t1:32.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t586\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ab1e4d079db2b05170f040a6fdb8f645cb6d1286",
+				"url": "/sonolus/repository/LevelCover/ab1e4d079db2b05170f040a6fdb8f645cb6d1286"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a24fb3d43acedad21f7c6162e09f1b10fbe03ae3",
+				"url": "/sonolus/repository/LevelBgm/a24fb3d43acedad21f7c6162e09f1b10fbe03ae3"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6d08281e94122a6d3b031cb72ad122b050081b14",
+				"url": "/sonolus/repository/LevelPreview/6d08281e94122a6d3b031cb72ad122b050081b14"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "83711bf08a2d5f350d9c3926a61875703dd1f395",
+				"url": "/sonolus/repository/LevelData/83711bf08a2d5f350d9c3926a61875703dd1f395"
+			}
+		},
+		{
 			"name": "sslo-hard-05001",
 			"version": 1,
 			"rating": 0,
