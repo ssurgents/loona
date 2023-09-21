@@ -623,6 +623,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-02006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Butterfly [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[X X]\nTitle:\t\t\tButterfly [Verse 2]\nDuration:\t1:46.54\nBPM:\t\t107\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t726\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90237bdde700682fb49ff6569771807ba712f027",
+				"url": "/sonolus/repository/LevelCover/90237bdde700682fb49ff6569771807ba712f027"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "439085d0df6d3dc3eb12dd278fb4f6c3fff8ba9e",
+				"url": "/sonolus/repository/LevelBgm/439085d0df6d3dc3eb12dd278fb4f6c3fff8ba9e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5874a3b94a7f586cf219db2e172aecd41fc88ad2",
+				"url": "/sonolus/repository/LevelPreview/5874a3b94a7f586cf219db2e172aecd41fc88ad2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eff907344389a63aab89e4e32d90e121c0efc813",
+				"url": "/sonolus/repository/LevelData/eff907344389a63aab89e4e32d90e121c0efc813"
+			}
+		},
+		{
 			"name": "sslo-hard-03001",
 			"version": 1,
 			"rating": 0,
