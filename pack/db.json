@@ -2102,6 +2102,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-05010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Be Honest [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[&]\nTitle:\t\t\tBe Honest [Verse 2]\nDuration:\t1:13.34\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t493\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-05001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90158685aee8c70b7b13e508873067bede3b4f5f",
+				"url": "/sonolus/repository/LevelCover/90158685aee8c70b7b13e508873067bede3b4f5f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ca80fc705138057b2d17d107c2e9d89c0183f638",
+				"url": "/sonolus/repository/LevelBgm/ca80fc705138057b2d17d107c2e9d89c0183f638"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "381ed9ca1924afc22b8734e2b5e3fb42876063a3",
+				"url": "/sonolus/repository/LevelPreview/381ed9ca1924afc22b8734e2b5e3fb42876063a3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "69a847da1d0c653a9fcbc281310ad7d53d45b1a4",
+				"url": "/sonolus/repository/LevelData/69a847da1d0c653a9fcbc281310ad7d53d45b1a4"
+			}
+		},
+		{
 			"name": "sslo-hard-06001",
 			"version": 1,
 			"rating": 0,
