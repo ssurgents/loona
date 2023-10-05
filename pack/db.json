@@ -2153,6 +2153,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-05011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "A Different Night [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[&]\nTitle:\t\t\tA Different Night [Verse 2]\nDuration:\t1:24.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t353\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-05001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90158685aee8c70b7b13e508873067bede3b4f5f",
+				"url": "/sonolus/repository/LevelCover/90158685aee8c70b7b13e508873067bede3b4f5f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f5db3c9eaf0b289fa6923c5871dfb76243f3fb70",
+				"url": "/sonolus/repository/LevelBgm/f5db3c9eaf0b289fa6923c5871dfb76243f3fb70"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6efd3636502f0d29c83732809ad73a221fac6fe1",
+				"url": "/sonolus/repository/LevelPreview/6efd3636502f0d29c83732809ad73a221fac6fe1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4d1a75c7399b75d801ef3ecbf38e423618d4edcc",
+				"url": "/sonolus/repository/LevelData/4d1a75c7399b75d801ef3ecbf38e423618d4edcc"
+			}
+		},
+		{
 			"name": "sslo-hard-06001",
 			"version": 1,
 			"rating": 0,
