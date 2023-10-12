@@ -368,6 +368,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-01008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Heat [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[+ +]\nTitle:\t\t\tHeat [Verse 2]\nDuration:\t1:18.32\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t516\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "eafa42bd47ae13b01a8f03a8cb197731d5e8fda9",
+				"url": "/sonolus/repository/LevelCover/eafa42bd47ae13b01a8f03a8cb197731d5e8fda9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "453ae4d9377794503bce9a0526d125a850c4027b",
+				"url": "/sonolus/repository/LevelBgm/453ae4d9377794503bce9a0526d125a850c4027b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fc83c6ed539d4774fdff0b6da901f468198b1fb4",
+				"url": "/sonolus/repository/LevelPreview/fc83c6ed539d4774fdff0b6da901f468198b1fb4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cdb4de0cb30c2a9b7810bd92c0439fdaa2ab4f61",
+				"url": "/sonolus/repository/LevelData/cdb4de0cb30c2a9b7810bd92c0439fdaa2ab4f61"
+			}
+		},
+		{
 			"name": "sslo-hard-02001",
 			"version": 1,
 			"rating": 0,
