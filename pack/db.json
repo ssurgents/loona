@@ -2714,6 +2714,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-07002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Vivid (Acoustic Mix)"
+			},
+			"artists": {
+				"en": "Heejin"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tHeejin\nAlbum:\t\tHeejin\nTitle:\t\t\tVivid (Acoustic Mix)\nDuration:\t1:45.31\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t546\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-07001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "def04bf02920a3eca3a8a02744174b46e8605d27",
+				"url": "/sonolus/repository/LevelCover/def04bf02920a3eca3a8a02744174b46e8605d27"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "db854f256791f475a9c3f2193f675d318fb5d833",
+				"url": "/sonolus/repository/LevelBgm/db854f256791f475a9c3f2193f675d318fb5d833"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "102a99fb16f06bd3ee23419e7cfa176ef2883248",
+				"url": "/sonolus/repository/LevelPreview/102a99fb16f06bd3ee23419e7cfa176ef2883248"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b2c698b386e9634807a0686308a472c301dba4a1",
+				"url": "/sonolus/repository/LevelData/b2c698b386e9634807a0686308a472c301dba4a1"
+			}
+		},
+		{
 			"name": "sslo-hard-08001",
 			"version": 1,
 			"rating": 0,
