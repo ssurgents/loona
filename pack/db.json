@@ -2663,6 +2663,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-06009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Playback [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\tFlip That\nTitle:\t\t\tPlayback [Verse 2]\nDuration:\t1:40.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t473\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-06001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bce045ef767eb19605c98d9d35905f03a47a4b3d",
+				"url": "/sonolus/repository/LevelCover/bce045ef767eb19605c98d9d35905f03a47a4b3d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cd5b8f2a8a2eaac5f3c759cfcf93ace21025a6cb",
+				"url": "/sonolus/repository/LevelBgm/cd5b8f2a8a2eaac5f3c759cfcf93ace21025a6cb"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e84c19e9d9b7509edabc24dd046c3701a9ca3285",
+				"url": "/sonolus/repository/LevelPreview/e84c19e9d9b7509edabc24dd046c3701a9ca3285"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c9502a96674769e1f28325af51a09aa55f082bdd",
+				"url": "/sonolus/repository/LevelData/c9502a96674769e1f28325af51a09aa55f082bdd"
+			}
+		},
+		{
 			"name": "sslo-hard-07001",
 			"version": 1,
 			"rating": 0,
