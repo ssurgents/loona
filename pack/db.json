@@ -1133,6 +1133,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-03009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "365 [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[#]\nTitle:\t\t\t365 [Verse 2]\nDuration:\t1:24.77\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t383\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "00f1b4bdc14112e458f06a52060a7fe907d738ad",
+				"url": "/sonolus/repository/LevelCover/00f1b4bdc14112e458f06a52060a7fe907d738ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8d24cfc291f697b5eb46c3c8e2a1b84826a97468",
+				"url": "/sonolus/repository/LevelBgm/8d24cfc291f697b5eb46c3c8e2a1b84826a97468"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "616fdba6c7128290875a95fb7208093f18741adc",
+				"url": "/sonolus/repository/LevelPreview/616fdba6c7128290875a95fb7208093f18741adc"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4e5dc6ece8cf46e7d5fa9be21e3adbdf2f7f2870",
+				"url": "/sonolus/repository/LevelData/4e5dc6ece8cf46e7d5fa9be21e3adbdf2f7f2870"
+			}
+		},
+		{
 			"name": "sslo-hard-04001",
 			"version": 1,
 			"rating": 0,
