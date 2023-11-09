@@ -2918,6 +2918,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-08002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I'll Be There"
+			},
+			"artists": {
+				"en": "Heejin & Hyunjin"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tHeejin & Hyunjin\nAlbum:\t\tHyunjin\nTitle:\t\t\tI'll Be There\nDuration:\t1:28.14\nBPM:\t\t113\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t486\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-08001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ddeea02aa1f48c892918d6af36f5aa784a71e542",
+				"url": "/sonolus/repository/LevelCover/ddeea02aa1f48c892918d6af36f5aa784a71e542"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7bd4af9fffbb37a252a1458ba434e46e07afe9eb",
+				"url": "/sonolus/repository/LevelBgm/7bd4af9fffbb37a252a1458ba434e46e07afe9eb"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d2e82f8a0e6f0b5f26fd0162a45be19664c22183",
+				"url": "/sonolus/repository/LevelPreview/d2e82f8a0e6f0b5f26fd0162a45be19664c22183"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b1b3896d4e92d3a5d3db5c17ab180524d9e98793",
+				"url": "/sonolus/repository/LevelData/b1b3896d4e92d3a5d3db5c17ab180524d9e98793"
+			}
+		},
+		{
 			"name": "sslo-hard-09001",
 			"version": 1,
 			"rating": 0,
@@ -3068,6 +3119,57 @@
 				"type": "LevelData",
 				"hash": "a1af440deef39afbf223a2165c54ae6fbf45d8a8",
 				"url": "/sonolus/repository/LevelData/a1af440deef39afbf223a2165c54ae6fbf45d8a8"
+			}
+		},
+		{
+			"name": "sslo-hard-10002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "My Sunday"
+			},
+			"artists": {
+				"en": "Heejin & Hyunjin"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tHeejin & Hyunjin\nAlbum:\t\tYeojin\nTitle:\t\t\tMy Sunday\nDuration:\t1:20.82\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t488\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-10001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c430ad22fc5a22047027c8b53853270df336454d",
+				"url": "/sonolus/repository/LevelCover/c430ad22fc5a22047027c8b53853270df336454d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e751e5b85b00674a68fb5d4ffab26e0bf81dc801",
+				"url": "/sonolus/repository/LevelBgm/e751e5b85b00674a68fb5d4ffab26e0bf81dc801"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3ab4ce1277b760519518b8f44d0c30e34be55fd4",
+				"url": "/sonolus/repository/LevelPreview/3ab4ce1277b760519518b8f44d0c30e34be55fd4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "af2ce4ab5b835570a145f64b2da05701efdcc2d4",
+				"url": "/sonolus/repository/LevelData/af2ce4ab5b835570a145f64b2da05701efdcc2d4"
 			}
 		},
 		{
@@ -3588,13 +3690,13 @@
 				"en": "Egoist"
 			},
 			"artists": {
-				"en": "Olivia Hye"
+				"en": "Olivia Hye (feat Jinsoul)"
 			},
 			"author": {
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tOlivia Hye\nAlbum:\t\tOlivia Hye\nTitle:\t\t\tEgoist\nDuration:\t2:03.92\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t623\n"
+				"en": "\n### Music ###\nArtist:\t\tOlivia Hye (feat Jinsoul)\nAlbum:\t\tOlivia Hye\nTitle:\t\t\tEgoist\nDuration:\t2:03.92\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t623\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -3629,6 +3731,57 @@
 				"type": "LevelData",
 				"hash": "9227bb38f4f85695ab30e901693616ffc6b4868f",
 				"url": "/sonolus/repository/LevelData/9227bb38f4f85695ab30e901693616ffc6b4868f"
+			}
+		},
+		{
+			"name": "sslo-hard-17002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Rosy"
+			},
+			"artists": {
+				"en": "Go Won & Olivia Hye (feat Heejin)"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGo Won & Olivia Hye (feat Heejin)\nAlbum:\t\tOlivia Hye\nTitle:\t\t\tRosy\nDuration:\t1:13.77\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t330\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-17001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "514e4cb5efe4469e9152a10159f9512852095ae3",
+				"url": "/sonolus/repository/LevelCover/514e4cb5efe4469e9152a10159f9512852095ae3"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "eb79599dcbab5a5feb526966815c4321d2349f50",
+				"url": "/sonolus/repository/LevelBgm/eb79599dcbab5a5feb526966815c4321d2349f50"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ad06870d060be547568b9ad9868d8a32a0b079a6",
+				"url": "/sonolus/repository/LevelPreview/ad06870d060be547568b9ad9868d8a32a0b079a6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9ea7ff4dd57aed4e4363ccf01ea2e872cc66f974",
+				"url": "/sonolus/repository/LevelData/9ea7ff4dd57aed4e4363ccf01ea2e872cc66f974"
 			}
 		},
 		{
