@@ -3683,6 +3683,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-16002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "One & Only [Verse 2]"
+			},
+			"artists": {
+				"en": "Go Won"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGo Won\nAlbum:\t\tGo Won\nTitle:\t\t\tOne & Only [Verse 2]\nDuration:\t1:26.18\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t473\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-16001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "70e437ffc37aeee948a8d1bc5d0423563bf36491",
+				"url": "/sonolus/repository/LevelCover/70e437ffc37aeee948a8d1bc5d0423563bf36491"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "44c6c45d31ab3129f38559719d7510cc26ed4456",
+				"url": "/sonolus/repository/LevelBgm/44c6c45d31ab3129f38559719d7510cc26ed4456"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3195a19e8890d765cb0531d406d66de422e5fe3f",
+				"url": "/sonolus/repository/LevelPreview/3195a19e8890d765cb0531d406d66de422e5fe3f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0ee29e91f2f2788c31e1ae86717329a5a542b16e",
+				"url": "/sonolus/repository/LevelData/0ee29e91f2f2788c31e1ae86717329a5a542b16e"
+			}
+		},
+		{
 			"name": "sslo-hard-17001",
 			"version": 1,
 			"rating": 0,
