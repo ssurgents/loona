@@ -1745,6 +1745,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-04012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Hide & Seek [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tHide & Seek [Verse 2]\nDuration:\t1:14.77\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t548\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ab1e4d079db2b05170f040a6fdb8f645cb6d1286",
+				"url": "/sonolus/repository/LevelCover/ab1e4d079db2b05170f040a6fdb8f645cb6d1286"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c2c76f8390c5f298d0b96ad56d487ac986018c6f",
+				"url": "/sonolus/repository/LevelBgm/c2c76f8390c5f298d0b96ad56d487ac986018c6f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c50a5bd1353e956c119bbd0c0312a9174d09c834",
+				"url": "/sonolus/repository/LevelPreview/c50a5bd1353e956c119bbd0c0312a9174d09c834"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ec5dc2064c0920bcf1d8aae5dc8a48cef08172ca",
+				"url": "/sonolus/repository/LevelData/ec5dc2064c0920bcf1d8aae5dc8a48cef08172ca"
+			}
+		},
+		{
 			"name": "sslo-hard-05001",
 			"version": 1,
 			"rating": 0,
