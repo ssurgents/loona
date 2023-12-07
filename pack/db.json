@@ -1796,6 +1796,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-04013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Voice [Full]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tVoice [Full]\nDuration:\t3:20.51\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t1284\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ab1e4d079db2b05170f040a6fdb8f645cb6d1286",
+				"url": "/sonolus/repository/LevelCover/ab1e4d079db2b05170f040a6fdb8f645cb6d1286"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "865696b3b18bc0697d8c8422f9faecf00ba46aa1",
+				"url": "/sonolus/repository/LevelBgm/865696b3b18bc0697d8c8422f9faecf00ba46aa1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d36dbea02cee724a6b31d2101e693dbd1e9b3f7f",
+				"url": "/sonolus/repository/LevelPreview/d36dbea02cee724a6b31d2101e693dbd1e9b3f7f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ee2701b26ab58f4801c22be68f9285d7e6d311bf",
+				"url": "/sonolus/repository/LevelData/ee2701b26ab58f4801c22be68f9285d7e6d311bf"
+			}
+		},
+		{
 			"name": "sslo-hard-05001",
 			"version": 1,
 			"rating": 0,
@@ -3231,13 +3282,13 @@
 				"en": "Everyday I Love You"
 			},
 			"artists": {
-				"en": "Vivi"
+				"en": "Vivi (feat Haseul)"
 			},
 			"author": {
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tVivi\nAlbum:\t\tVivi\nTitle:\t\t\tEveryday I Love You\nDuration:\t1:41.77\nBPM:\t\t0:00.00-0:20.77: 104.0\n\t\t\t\t0:20.77-1:40.77: 120.0\n\t\t\t\t1:40.77-1:41.77: 120.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t625\n"
+				"en": "\n### Music ###\nArtist:\t\tVivi (feat Haseul)\nAlbum:\t\tVivi\nTitle:\t\t\tEveryday I Love You\nDuration:\t1:41.77\nBPM:\t\t0:00.00-0:20.77: 104.0\n\t\t\t\t0:20.77-1:40.77: 120.0\n\t\t\t\t1:40.77-1:41.77: 120.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t625\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -3272,6 +3323,57 @@
 				"type": "LevelData",
 				"hash": "2e21e2f20b177f77a185e04ecc66b93b345a016c",
 				"url": "/sonolus/repository/LevelData/2e21e2f20b177f77a185e04ecc66b93b345a016c"
+			}
+		},
+		{
+			"name": "sslo-hard-11002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Everyday I Need You"
+			},
+			"artists": {
+				"en": "Vivi (feat Jinsoul)"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tVivi (feat Jinsoul)\nAlbum:\t\tVivi\nTitle:\t\t\tEveryday I Need You\nDuration:\t1:15.47\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t307\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e572d09b2835a6a64d37dbabd750006c006418c9",
+				"url": "/sonolus/repository/LevelCover/e572d09b2835a6a64d37dbabd750006c006418c9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5b83d9e5f73d733014aeabb4886546e2de26a02d",
+				"url": "/sonolus/repository/LevelBgm/5b83d9e5f73d733014aeabb4886546e2de26a02d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f7d303cd37f53adc70fc1ff2c7e5c6ba7cbaaa6a",
+				"url": "/sonolus/repository/LevelPreview/f7d303cd37f53adc70fc1ff2c7e5c6ba7cbaaa6a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9ec6d7737c225764c09b91d68103445b4fb58a2c",
+				"url": "/sonolus/repository/LevelData/9ec6d7737c225764c09b91d68103445b4fb58a2c"
 			}
 		},
 		{
