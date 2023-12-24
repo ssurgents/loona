@@ -4601,6 +4601,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-carol3-1",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "The Carol 3.0"
+			},
+			"artists": {
+				"en": "ARTMS"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tARTMS\nAlbum:\t\tThe Carol 3.0\nTitle:\t\t\tThe Carol 3.0\nDuration:\t1:49.39\nBPM:\t\t0:00.00-0:35.56: 108.0\n\t\t\t\t0:35.56-1:48.38: 145.0\n\t\t\t\t1:48.38-1:49.39: 120.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t559\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-custom-carol3"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b8a2a3b89bbbb2ff495679a8c9f4121dfd1c39c0",
+				"url": "/sonolus/repository/LevelCover/b8a2a3b89bbbb2ff495679a8c9f4121dfd1c39c0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aec3f3012d23f610bb90cb1a70ad6e40d4fae0c4",
+				"url": "/sonolus/repository/LevelBgm/aec3f3012d23f610bb90cb1a70ad6e40d4fae0c4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ffbf0cbbd435056fa443b8e0c61010d26cbb3264",
+				"url": "/sonolus/repository/LevelPreview/ffbf0cbbd435056fa443b8e0c61010d26cbb3264"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cc01b3c898325ca014491c12a8c9b500ce454a59",
+				"url": "/sonolus/repository/LevelData/cc01b3c898325ca014491c12a8c9b500ce454a59"
+			}
+		},
+		{
 			"name": "sslo-hard-chuu1",
 			"version": 1,
 			"rating": 0,
@@ -4715,6 +4766,42 @@
 				"type": "BackgroundImage",
 				"hash": "6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f",
 				"url": "/sonolus/repository/BackgroundImage/6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "sslo-custom-carol3",
+			"version": 2,
+			"title": {
+				"en": "The Carol 3.0 default"
+			},
+			"subtitle": {
+				"en": "Custom background"
+			},
+			"author": {
+				"en": "@pika_chuuves (twitter)"
+			},
+			"description": {
+				"en": "\nAlbum:\tThe Carol 3.0\n\nTeaser image (clean version)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "56bcdbc74a86d6d7cc37064a3022b595399256de",
+				"url": "/sonolus/repository/BackgroundThumbnail/56bcdbc74a86d6d7cc37064a3022b595399256de"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "43a05912de2fe4db079475da28a626851e792631",
+				"url": "/sonolus/repository/BackgroundData/43a05912de2fe4db079475da28a626851e792631"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "b7077007c53d2270d98c8488b9aba0c582e8b1cc",
+				"url": "/sonolus/repository/BackgroundImage/b7077007c53d2270d98c8488b9aba0c582e8b1cc"
 			},
 			"configuration": {
 				"type": "BackgroundConfiguration",
