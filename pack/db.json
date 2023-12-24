@@ -4520,7 +4520,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "sslo-ingame-bntb"
+				"item": "sslo-custom-bntb"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -4571,7 +4571,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "sslo-ingame-bntb"
+				"item": "sslo-custom-bntb"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -4622,7 +4622,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "sslo-ingame-chuu"
+				"item": "sslo-custom-chuu"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -4686,6 +4686,78 @@
 		}
 	],
 	"backgrounds": [
+		{
+			"name": "sslo-custom-bntb",
+			"version": 2,
+			"title": {
+				"en": "Beauty & the Beat default"
+			},
+			"subtitle": {
+				"en": "Custom background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "\nAlbum:\tBeauty & the Beat\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d5fa16d3704ac471e8186cd22f812f863d5fbb81",
+				"url": "/sonolus/repository/BackgroundThumbnail/d5fa16d3704ac471e8186cd22f812f863d5fbb81"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f",
+				"url": "/sonolus/repository/BackgroundImage/6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "sslo-custom-chuu",
+			"version": 2,
+			"title": {
+				"en": "Chuu default"
+			},
+			"subtitle": {
+				"en": "Custom background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "\nAlbum:\tChuu\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6356c708b0e405f6927964de6bdb89bd7f41f5ad",
+				"url": "/sonolus/repository/BackgroundThumbnail/6356c708b0e405f6927964de6bdb89bd7f41f5ad"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a7325589d53124791a7dfdeb9ac37fb431201913",
+				"url": "/sonolus/repository/BackgroundImage/a7325589d53124791a7dfdeb9ac37fb431201913"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
 		{
 			"name": "sslo-ingame-01001",
 			"version": 2,
@@ -5435,78 +5507,6 @@
 				"type": "BackgroundImage",
 				"hash": "79f2a8800f122e9e2a33772f3cc6abbf172fed9e",
 				"url": "/sonolus/repository/BackgroundImage/79f2a8800f122e9e2a33772f3cc6abbf172fed9e"
-			},
-			"configuration": {
-				"type": "BackgroundConfiguration",
-				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
-				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
-			}
-		},
-		{
-			"name": "sslo-ingame-bntb",
-			"version": 2,
-			"title": {
-				"en": "Beauty & the Beat default"
-			},
-			"subtitle": {
-				"en": "In-game background"
-			},
-			"author": {
-				"en": "SuperStar Loona"
-			},
-			"description": {
-				"en": "\nAlbum:\tBeauty & the Beat\n"
-			},
-			"thumbnail": {
-				"type": "BackgroundThumbnail",
-				"hash": "d5fa16d3704ac471e8186cd22f812f863d5fbb81",
-				"url": "/sonolus/repository/BackgroundThumbnail/d5fa16d3704ac471e8186cd22f812f863d5fbb81"
-			},
-			"data": {
-				"type": "BackgroundData",
-				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
-				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
-			},
-			"image": {
-				"type": "BackgroundImage",
-				"hash": "6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f",
-				"url": "/sonolus/repository/BackgroundImage/6f9c2a7186a4ee772b3a33f8e18825ff8eaec69f"
-			},
-			"configuration": {
-				"type": "BackgroundConfiguration",
-				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
-				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
-			}
-		},
-		{
-			"name": "sslo-ingame-chuu",
-			"version": 2,
-			"title": {
-				"en": "Chuu default"
-			},
-			"subtitle": {
-				"en": "In-game background"
-			},
-			"author": {
-				"en": "SuperStar Loona"
-			},
-			"description": {
-				"en": "\nAlbum:\tChuu\n"
-			},
-			"thumbnail": {
-				"type": "BackgroundThumbnail",
-				"hash": "6356c708b0e405f6927964de6bdb89bd7f41f5ad",
-				"url": "/sonolus/repository/BackgroundThumbnail/6356c708b0e405f6927964de6bdb89bd7f41f5ad"
-			},
-			"data": {
-				"type": "BackgroundData",
-				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
-				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
-			},
-			"image": {
-				"type": "BackgroundImage",
-				"hash": "a7325589d53124791a7dfdeb9ac37fb431201913",
-				"url": "/sonolus/repository/BackgroundImage/a7325589d53124791a7dfdeb9ac37fb431201913"
 			},
 			"configuration": {
 				"type": "BackgroundConfiguration",
