@@ -470,6 +470,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-01010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Stylish [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[+ +]\nTitle:\t\t\tStylish [Verse 2]\nDuration:\t1:35.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t688\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "eafa42bd47ae13b01a8f03a8cb197731d5e8fda9",
+				"url": "/sonolus/repository/LevelCover/eafa42bd47ae13b01a8f03a8cb197731d5e8fda9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "050835972ba68059ec59c7048b9eda2ebf710881",
+				"url": "/sonolus/repository/LevelBgm/050835972ba68059ec59c7048b9eda2ebf710881"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "95361b0dc55dee8319ce3b4072401816506a2001",
+				"url": "/sonolus/repository/LevelPreview/95361b0dc55dee8319ce3b4072401816506a2001"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c164aa2f836ffe45ae7889f23edc12f0ace49c05",
+				"url": "/sonolus/repository/LevelData/c164aa2f836ffe45ae7889f23edc12f0ace49c05"
+			}
+		},
+		{
 			"name": "sslo-hard-02001",
 			"version": 1,
 			"rating": 0,
