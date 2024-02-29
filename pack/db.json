@@ -827,6 +827,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-02007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Satellite [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[X X]\nTitle:\t\t\tSatellite [Verse 2]\nDuration:\t1:19.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t468\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90237bdde700682fb49ff6569771807ba712f027",
+				"url": "/sonolus/repository/LevelCover/90237bdde700682fb49ff6569771807ba712f027"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8ef52c9422bfd1c5d5ca6a9b5c1f46f9e6ed665a",
+				"url": "/sonolus/repository/LevelBgm/8ef52c9422bfd1c5d5ca6a9b5c1f46f9e6ed665a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "03cecb4fb6b782c94dcfc2fdeffad30b8e0c576b",
+				"url": "/sonolus/repository/LevelPreview/03cecb4fb6b782c94dcfc2fdeffad30b8e0c576b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b0b36482391867d3d1d1a717bb0e2369452d6993",
+				"url": "/sonolus/repository/LevelData/b0b36482391867d3d1d1a717bb0e2369452d6993"
+			}
+		},
+		{
 			"name": "sslo-hard-03001",
 			"version": 1,
 			"rating": 0,
